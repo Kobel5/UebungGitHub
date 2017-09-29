@@ -16,7 +16,7 @@ namespace UebungGitHub
 
       for (;;)
       {
-        Debug.WriteLine("Test");
+        Console.WriteLine("Test");
       }
 
     }
