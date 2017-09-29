@@ -12,6 +12,8 @@ namespace UebungGitHub
         {
             //erster Eintrag
             int version = 0;
+            //zweiter Eintrag
+            version++;
         }
     }
 }
