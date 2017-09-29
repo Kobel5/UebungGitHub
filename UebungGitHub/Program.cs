@@ -10,6 +10,8 @@ namespace UebungGitHub
     {
         static void Main(string[] args)
         {
+            //erster Eintrag
+            int version = 0;
         }
     }
 }
